@@ -19,8 +19,8 @@ Small command-line tool to browse stock, search & order items, and list inventor
 
 ## Setup & Run
 - Clone the repository:
-  - git clone <repo-url>
-  - cd <repo-directory>
+  - git clone https://github.com/jadonblaise/Warehouse-3.git
+  - cd Warehouse-3
 
 - Ensure your data module is available and properly populated
 - Run the CLI:
