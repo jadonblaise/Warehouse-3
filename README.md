@@ -1,4 +1,4 @@
-# Inventory CLI Tool
+# Inventory CLI Tool (Data Warehouse)
 
 Small command-line tool to browse stock, search & order items, and list inventory by warehouse with simple user authentication.
 
